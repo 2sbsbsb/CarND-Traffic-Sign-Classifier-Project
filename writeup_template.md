@@ -90,10 +90,10 @@ Here are the results of the prediction:
 | Image			        |     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | Turn left ahead 		| Turn left ahead								| 
-| Speed limit (70km/h)  | Speed limit (70km/h) 							|
+| Speed limit (70km/h)  | Turn right ahead 							|
 | General caution       | General caution		     					|
 | No entry	      		| No entry				    	 				|
-| Bicycles crossing		| No passing        							|
+| Bicycles crossing		| Ahead only       							|
 
 
 The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. 
