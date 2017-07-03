@@ -60,9 +60,9 @@ After the train and valdiation process I tested my model against the test datase
 * dropout for validation and test data is 1
 
 My final model results were:
-* training set accuracy of 98.9%
-* validation set accuracy of 93.4% 
-* test set accuracy of 92.6%
+* training set accuracy of 99.8%
+* validation set accuracy of 94.4% 
+* test set accuracy of 93.7%
 
 Note: The Training and Validation Accuracy stopped increasing after the 18th epoch so early stopping could be a good solution for my model.
 
